@@ -1,0 +1,15 @@
+header{
+    border: 2px solid black;
+   
+}
+.navbar{
+    background-color: #999999;
+}
+h2{
+    text-align: center;
+}
+#Chicken, #Beef ,#Sushi{
+   
+    background-color: #999999;
+    border: 2px solid black;
+}
